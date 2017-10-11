@@ -11,7 +11,6 @@ using namespace std;
 int  main(){
 	
 	bool boo=true;
-	cout << "1 is a prime number.\n";
 	cout << "2 is a prime number.\n";
 	for(int i=3; i<5000; i++){
 		if(i%2!=0){
